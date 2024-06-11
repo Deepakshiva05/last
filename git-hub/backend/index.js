@@ -1,4 +1,4 @@
-const a=5;
+const x=5;
 const y=8;
 
-console.log(a+y);
+console.log(x+y);
